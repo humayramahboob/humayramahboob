@@ -17,9 +17,6 @@
 <li> ʙᴏᴡʟɪɴɢ </li> </br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=w3ffrv0qh030o5s5m3bj2vv7b&count=1" alt="Alt text">
 
-<b>❀ ꜱᴏᴍᴇ ɢᴀᴍᴇ ꜱᴛᴀᴛꜱ:</b> <br><a href="https://enka.network/u/655237998/" target="_blank"><img src="https://github.com/CSCI-39548-FA24/assignment-0-humayramahboob/blob/main/images/genshin.png" width="50" height="50"></a><a href="https://enka.network/hsr/601392751/" target="_blank"><img src="https://github.com/CSCI-39548-FA24/assignment-0-humayramahboob/blob/main/images/star%20rail.png" width="50" height="50"></a><a href="https://fortnitetracker.com/profile/all/bviIey" target="_blank"><img src = "https://github.com/CSCI-39548-FA24/assignment-0-humayramahboob/blob/main/images/fortnite.png" width="50" height="50"></a> 
-</div>
-
 <div>
 <h2 align="left">♡ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ♡</h2>
  <br>
