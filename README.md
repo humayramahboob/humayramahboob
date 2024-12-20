@@ -1,6 +1,4 @@
-<div align="center">
-<img src= "https://github.com/CSCI-39548-FA24/assignment-0-humayramahboob/blob/main/images/welcome-to-my-profile.gif" width= "100%"/>
-</div>
+<h1>Welcome to my profile!</h1>
 
 <div>
 <h2 align="left">✧ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✧</h2>
