@@ -35,7 +35,11 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-%23239CFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><br><br><br>
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br><br><br>
 ​🇮​ ​🇦​​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇸​​🇹​​🇺​​🇩​​🇾​​🇮​​🇳​​🇬​ ​🇦​​🇹​ ​🇭​​🇺​​🇳​​🇹​​🇪​​🇷​ ​🇨​​🇴​​🇱​​🇱​​🇪​​🇬​​🇪​ ​🇦​​🇸​ ​🇦​ ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇲​​🇦​​🇯​​🇴​​🇷​ ​🇦​​🇳​​🇩​ ​🇦​ ​🇲​​🇮​​🇳​​🇴​​🇷​ ​🇮​​🇳​ ​🇲​​🇦​​🇹​​🇭​​🇪​​🇲​​🇦​​🇹​​🇮​​🇨​​🇸​. ​🇮​ ​🇦​​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇷​​🇪​​🇦​​🇨​​🇹​ ​🇦​​🇳​​🇩​ ​🇷​​🇪​​🇩​​🇺​​🇽​ ​🇮​​🇳​ ​🇼​​🇪​​🇧​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇦​​🇳​​🇩​ ​🇹​​🇭​​🇪​ ​🇺​​🇸​​🇪​ ​🇴​​🇫​ ​🇦​​🇵​​🇮​​🇸​ ​🇼​​🇮​​🇹​​🇭​ ​🇯​​🇦​​🇻​​🇦​​🇸​​🇨​​🇷​​🇮​​🇵​​🇹​. ​🇮​ ​🇦​​🇲​ ​🇮​​🇳​​🇹​​🇪​​🇷​​🇪​​🇸​​🇹​​🇪​​🇩​ ​🇮​​🇳​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇬​ ​🇺​​🇮​/​🇺​​🇽​, ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​​🇮​​🇳​​🇬​, ​🇲​​🇦​​🇨​​🇭​​🇮​​🇳​​🇪​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇦​​🇳​​🇩​ ​🇦​​🇮​.
 
 </p>
