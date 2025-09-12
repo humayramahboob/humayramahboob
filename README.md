@@ -2,9 +2,7 @@
 
 <div>
 <h2 align="left">✧ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✧</h2>
-  <div align="center">
-<img src="https://github.com/CSCI-39548-FA24/assignment-0-humayramahboob/blob/main/images/Side%20icon.jpg" align="right" width="225" height="400">
-  </div>
+
  <b>❀ ɴᴀᴍᴇ:</b> ʜᴜᴍᴀʏʀᴀ ᴍᴀʜʙᴏᴏʙ </br>
 <b>❀ ᴘʀᴏɴᴏᴜɴꜱ:</b> ꜱʜᴇ/ʜᴇʀ </br>
 <b>❀ ɪɴᴛᴇʀᴇꜱᴛꜱ:</b> 
