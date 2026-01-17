@@ -1,21 +1,21 @@
 <h1>Welcome to my profile!</h1>
 
 <div>
-<h2 align="left">✧ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ✧</h2>
+<h2 align="left">✧ About Me ✧</h2>
 
- <b>❀ ɴᴀᴍᴇ:</b> ʜᴜᴍᴀʏʀᴀ ᴍᴀʜʙᴏᴏʙ </br>
-<b>❀ ᴘʀᴏɴᴏᴜɴꜱ:</b> ꜱʜᴇ/ʜᴇʀ </br>
-<b>❀ ɪɴᴛᴇʀᴇꜱᴛꜱ:</b> 
-<li>ᴀɴɪᴍᴇ </li> 
-<li> ɢᴀᴛᴄʜᴀ ɢᴀᴍᴇꜱ </li>
-<li> ꜱʜᴏᴏᴛᴇʀ ɢᴀᴍᴇꜱ </li>
-<li> ʀᴏᴍᴀɴᴄᴇ ʙᴏᴏᴋꜱ </li>
-<li> ʙᴏᴡʟɪɴɢ </li> </br>
+ <b>❀ Name: </b> Humayra Mahboob </br>
+<b>❀ Pronouns:</b> She/Her </br>
+<b>❀ Interests:</b> 
+<li>Anime</li> 
+<li> Romance Books </li>
+<li> Music </li>
+<li> Concerts </li>
+<li> Art </li> </br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=w3ffrv0qh030o5s5m3bj2vv7b&count=1" alt="Alt text">
 <br><br><br>
 
 <div>
-<h2 align="left">♡ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ♡</h2>
+<h2 align="left">♡ Knowledge ♡</h2>
  <br>
 <p>
   <div align="center">
