@@ -5,7 +5,7 @@
 
  <b>❀ Name: </b> Humayra Mahboob </br>
 <b>❀ Pronouns:</b> She/Her </br>
-<b>❀ Interests: Anime, Manga, Romance books, listening to music, attending concert and making art</b> 
+<b>❀ Interests: </b>  Anime, Manga, Romance books, listening to music, attending concert and making art</br> 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=w3ffrv0qh030o5s5m3bj2vv7b&count=1" alt="Alt text">
 <br><br><br>
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/><br><br><br>
-​🇮​ ​🇦​​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇸​​🇹​​🇺​​🇩​​🇾​​🇮​​🇳​​🇬​ ​🇦​​🇹​ ​🇭​​🇺​​🇳​​🇹​​🇪​​🇷​ ​🇨​​🇴​​🇱​​🇱​​🇪​​🇬​​🇪​ ​🇦​​🇸​ ​🇦​ ​🇨​​🇴​​🇲​​🇵​​🇺​​🇹​​🇪​​🇷​ ​🇸​​🇨​​🇮​​🇪​​🇳​​🇨​​🇪​ ​🇲​​🇦​​🇯​​🇴​​🇷​ ​🇦​​🇳​​🇩​ ​🇦​ ​🇲​​🇮​​🇳​​🇴​​🇷​ ​🇮​​🇳​ ​🇲​​🇦​​🇹​​🇭​​🇪​​🇲​​🇦​​🇹​​🇮​​🇨​​🇸​. ​🇮​ ​🇦​​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇷​​🇪​​🇦​​🇨​​🇹​ ​🇦​​🇳​​🇩​ ​🇷​​🇪​​🇩​​🇺​​🇽​ ​🇮​​🇳​ ​🇼​​🇪​​🇧​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇲​​🇪​​🇳​​🇹​ ​🇦​​🇳​​🇩​ ​🇹​​🇭​​🇪​ ​🇺​​🇸​​🇪​ ​🇴​​🇫​ ​🇦​​🇵​​🇮​​🇸​ ​🇼​​🇮​​🇹​​🇭​ ​🇯​​🇦​​🇻​​🇦​​🇸​​🇨​​🇷​​🇮​​🇵​​🇹​. ​🇮​ ​🇦​​🇲​ ​🇮​​🇳​​🇹​​🇪​​🇷​​🇪​​🇸​​🇹​​🇪​​🇩​ ​🇮​​🇳​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇬​ ​🇺​​🇮​/​🇺​​🇽​, ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​ ​🇪​​🇳​​🇬​​🇮​​🇳​​🇪​​🇪​​🇷​​🇮​​🇳​​🇬​, ​🇲​​🇦​​🇨​​🇭​​🇮​​🇳​​🇪​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ ​🇦​​🇳​​🇩​ ​🇦​​🇮​.
+ I currently graduated Hunter College as a computer science major and a minor in mathematics with the Daedalus Scholars Honors Program. I have an interest in working with software engineering and machine learning and also like the design aspect of UI/ UX. Currently, I am studying on enhancing my skills on using APIs and learning Flutter and mobile development!
 
 </p>
 <br>
