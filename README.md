@@ -5,12 +5,7 @@
 
  <b>❀ Name: </b> Humayra Mahboob </br>
 <b>❀ Pronouns:</b> She/Her </br>
-<b>❀ Interests:</b> 
-<li>Anime</li> 
-<li> Romance Books </li>
-<li> Music </li>
-<li> Concerts </li>
-<li> Art </li> </br>
+<b>❀ Interests: Anime, Manga, Romance books, listening to music, attending concert and making art</b> 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=w3ffrv0qh030o5s5m3bj2vv7b&count=1" alt="Alt text">
 <br><br><br>
 
@@ -42,7 +37,7 @@
 </p>
 <br>
 </div>
-<p align="center"><b> ☏ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞: </b> <a href="https://www.linkedin.com/in/humayra-mahboob-387336216/" target="_blank">  <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="20"/>
+<p align="center"><b> ☏ Contact Me: </b> <a href="https://www.linkedin.com/in/humayra-mahboob-387336216/" target="_blank">  <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="20"/>
 </a> <a href="mailto:humayramahboob1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60" height="20"/>
 </a></p>
